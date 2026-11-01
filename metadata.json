@@ -1,0 +1,5 @@
+{
+  "name": "Stock News Predictor",
+  "description": "Predicts stock price movements based on financial news and historical context from 2021-2022.",
+  "requestFramePermissions": []
+}
